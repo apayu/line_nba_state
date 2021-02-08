@@ -1,0 +1,12 @@
+{
+  "name": "line-nba-state",
+  "description": "this is echo bot on LINE message",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.0"
+  },
+  "main": "handler.py",
+  "autor": "NiJia",
+  "license": "MIT"
+}
